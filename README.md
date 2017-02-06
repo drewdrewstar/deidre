@@ -1,0 +1,2 @@
+# deidre
+tsundere discord bot
